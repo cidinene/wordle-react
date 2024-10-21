@@ -2,7 +2,7 @@
 
 Este es un primer tutorial 
 
-## Available Scripts
+## Implementaciónd e
 
 In the project directory, you can run:
 
